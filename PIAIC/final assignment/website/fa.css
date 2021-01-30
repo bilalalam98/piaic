@@ -1,0 +1,24 @@
+body{
+    outline: none !important;
+}
+
+.a1:hover{
+ border-bottom:10px solid yellow;
+}
+.a1:active{
+    border-bottom:10px solid yellow;
+   }
+   .a1:focus{
+    border-bottom:10px solid yellow;
+   }
+   .bg{
+    background-image: url("bg.JFIF");
+   }
+
+   .bg1{
+    background-image: url("bg1.JPG");
+   }
+
+   .bg2{
+    background-image: url("bg2.JPG");
+   }

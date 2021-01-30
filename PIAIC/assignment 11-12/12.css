@@ -1,0 +1,21 @@
+@font-face{
+    font-family: font;
+    src: url("nsb.ttf");}
+    
+    .a1{
+    font-family: font;
+    }
+
+    @font-face{
+      font-family: font1;
+      src: url("ns.ttf");}
+      
+      .a2{
+      font-family: font1;
+      }
+body{
+    
+        margin: 0px;
+        padding: 0px;
+        
+}
